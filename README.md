@@ -1,5 +1,4 @@
 # CRUD-JS
-
 A simple CRUD application using Node.js and Express.js.
 
 ## Features
